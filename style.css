@@ -40,3 +40,11 @@ img{
 .mission-section{
     display: flex;
 }
+
+.mission-title{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 900;
+
+}
