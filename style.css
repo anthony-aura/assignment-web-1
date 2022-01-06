@@ -67,14 +67,18 @@ img{
     font-weight: 900;
 }
 
-.mission-text{
-    font-family: 'Roboto', sans-serif;
-}
-
 .mission-header{
     font-family: 'Roboto', sans-serif;
     font-size: 36px;
     font-weight: 600;
+}
+
+.mission-text{
+    font-family: 'Roboto', sans-serif;
+}
+
+.box-image{
+    width: 40%;
 }
 
 #mission-box-1{
@@ -92,14 +96,10 @@ img{
 }
 
 #mission-box-3{
+    margin: 10px;
     background-color: #fffae6;
     border-radius: 30px;
     padding: 15px 20px;
-    margin: 10px;
-}
-
-.box-image{
-    width: 40%;
 }
 
 .develop-section-1{
@@ -133,12 +133,12 @@ img{
 width: 40%;
 }
 
-.div-right-img{
-    text-align: right;
-}
-
 .div-right{
     width: 60%;
+}
+
+.div-right-img{
+    text-align: right;
 }
 
 #div-right{
@@ -177,7 +177,7 @@ footer{
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
-    background-color: rgb(0, 0, 26);
+    background-color: #00001a;
     color: white;
 }
 
@@ -189,5 +189,5 @@ footer{
 
 .footer-text{
     font-size: 16px;
-    color: rgba(255, 255, 255, 0.698);
+    color: #ffffffb2;
 }
