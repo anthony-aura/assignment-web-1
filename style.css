@@ -11,8 +11,6 @@ h1{
 
 .first-section{
     display: flex;
-    height: 100px;
-    
 }
 
 .half-width{
@@ -37,4 +35,8 @@ img{
 .mission-border{
     border-left: 3px solid #003F63;
     
+}
+
+.mission-section{
+    display: flex;
 }
