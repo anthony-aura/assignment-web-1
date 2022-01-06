@@ -114,6 +114,10 @@ width: 40%;
     width: 60%;
 }
 
+#div-right{
+    padding-right: 100px;
+}
+
 .develop-header{
     font-family: 'Roboto', sans-serif;
     font-size: 50px;
