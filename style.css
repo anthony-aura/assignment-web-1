@@ -9,7 +9,7 @@ h1{
     font-weight: bold;
 }
 
-.first-section{
+.first-section, .mission-section, .develop-section{
     display: flex;
 }
 
@@ -36,9 +36,6 @@ img{
     border-left: 3px solid #003F63;   
 }
 
-.mission-section{
-    display: flex;
-}
 
 .mission-title{
     font-family: 'Roboto', sans-serif;
@@ -80,4 +77,12 @@ img{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 600;
+}
+
+.coding-img{
+    width: 30%;
+}
+
+.div-left{
+
 }
