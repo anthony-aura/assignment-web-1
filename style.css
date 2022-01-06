@@ -1,16 +1,26 @@
 body{
-    padding-left: 200px;
-    padding-right: 200px;
+    margin: 0;
     padding-top: 60px;
 }
 
-.first-section, .develop-section{
+.first-section{
+    padding-left: 200px;
+    padding-right: 200px;
     display: flex;
     padding-top: 60px;
 }
 
 .mission-section{
+    padding-left: 200px;
+    padding-right: 200px;
     display: flex;
+}
+
+.develop-section{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 h1{
@@ -108,4 +118,16 @@ width: 40%;
     font-family: 'Roboto', sans-serif;
     font-size: 50px;
     font-weight: 900;
+}
+
+.introduction{
+    margin-top: 100px;
+    background: linear-gradient(0deg, rgba(220, 255, 243, 0.178), rgba(0, 255, 200, 0.274)), url(images/homepage-bg.jpg);
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-left: 200px;  
+}
+
+.text-white{
+    color: white;
 }
