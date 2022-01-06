@@ -12,11 +12,10 @@ h1{
 
 .first-section{
     padding-left: 200px;
-    padding-right: 200px;
+    padding-right: 100px;
     display: flex;
     padding-top: 60px;
 }
-
 
 .first-section-head{
     font-family: 'Bitter', serif;
@@ -126,12 +125,16 @@ img{
     background-size: 15%;
     background-repeat: no-repeat;
     background-position: bottom right;
-    background-position-x: 1370px;
+    background-position-x: 1470px;
     background-position-y: 300px;
 }
 
 .div-left{
 width: 40%;
+}
+
+.div-right-img{
+    text-align: right;
 }
 
 .div-right{
