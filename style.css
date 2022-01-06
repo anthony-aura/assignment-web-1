@@ -3,6 +3,13 @@ body{
     padding-top: 60px;
 }
 
+h1{
+    font-family: 'Bitter', serif;
+    font-size: 66px;
+    font-weight: 800;
+    letter-spacing: 2pt;
+}
+
 .first-section{
     padding-left: 200px;
     padding-right: 200px;
@@ -10,21 +17,10 @@ body{
     padding-top: 60px;
 }
 
-.mission-section{
-    padding-left: 200px;
-    padding-right: 200px;
-    display: flex;
-}
 
-.develop-section{
-    display: flex;
-    padding-top: 80px;
-    padding-left: 200px;
-    padding-right: 200px;
-}
-
-h1{
+.first-section-head{
     font-family: 'Bitter', serif;
+    padding-left: 15px;
     font-size: 66px;
     font-weight: 800;
     letter-spacing: 2pt;
@@ -38,7 +34,6 @@ p{
 .mission-border-left{
     border-left: 5px solid #003F63;
     border-radius: 3px;
-    border
 }
 
 .half-width{
@@ -58,6 +53,12 @@ img{
     font-weight: 600;
     border-radius: 5px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mission-section{
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
 }
 
 .mission-title{
@@ -102,8 +103,26 @@ img{
     width: 40%;
 }
 
-.coding-img{
-    
+.develop-section-1{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-position-x: 55px;
+    background-position-y: 120px;
+    background-size: 20%;
+}
+
+.develop-section-2{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-image: url(images/shape);
+    background-repeat: no-repeat;
 }
 
 .div-left{
