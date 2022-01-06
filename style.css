@@ -1,5 +1,5 @@
 body{
-    padding-left: 80px;
+    padding-left: 200px;
     padding-top: 60px;
 }
 
@@ -40,7 +40,7 @@ img{
 .mission-title{
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-size: 32px;
+    font-size: 50px;
     font-weight: 900;
 }
 
@@ -80,9 +80,19 @@ img{
 }
 
 .coding-img{
-    width: 30%;
+    
 }
 
 .div-left{
+width: 40%;
+}
 
+.div-right{
+    width: 60%;
+}
+
+.develop-header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
 }
